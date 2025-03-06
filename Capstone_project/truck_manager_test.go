@@ -59,7 +59,7 @@ func TestUpdateTruckCargo(t *testing.T) {
 	}
 }
 
-/* 
+/*
 FIXME: Uncomment me for the concurrency part
 
 func TestConcurrentUpdate(t *testing.T) {
